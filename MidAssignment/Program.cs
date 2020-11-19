@@ -11,8 +11,8 @@ namespace MidAssignment
             Faculty f1 = new Faculty("Shaiq");
             Faculty f2 = new Faculty("Sadman");
 
-            Course c1 = new Course("Sp2", 3);
-            Course c2 = new Course("Java", 3);
+            Course c1 = new Course("Sp2");
+            Course c2 = new Course("Java");
 
             Section s1 = new Section("A", f1, c1);
             Section s2 = new Section("B", f2, c2);
